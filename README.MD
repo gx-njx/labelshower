@@ -85,4 +85,4 @@ pip install pyqt5 matplotlib numpy pillow
 
 ## 许可证
 
-此项目使用 [MIT 许可证](https://tongyi.aliyun.com/qianwen/LICENSE)。
+此项目使用 [MIT 许可证](https://opensource.org/license/MIT)。
