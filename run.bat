@@ -1,0 +1,1 @@
+C:/Users/gethin/miniconda3/envs/image_viewer_env/python.exe ./main.py

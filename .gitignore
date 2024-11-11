@@ -1,0 +1,82 @@
+# 忽略所有 .pyc 文件
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 Python 缓存目录
+__pycache__/
+*.egg-info/
+*.egg
+
+# 忽略 Jupyter Notebook 的检查点
+.ipynb_checkpoints/
+
+# 忽略编译的 Python 文件
+*.so
+*.c
+*.h
+
+# 忽略 IDE 和编辑器生成的文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*~
+
+# 忽略日志文件和数据库文件
+*.log
+*.db
+
+# 忽略环境和依赖文件
+.env
+.venv/
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+nox.db
+.coverage
+.cache/
+.hypothesis/
+.pytest_cache/
+pytestdebug.log
+
+# 忽略构建和发布文件
+build/
+dist/
+*.egg-info
+MANIFEST
+
+# 忽略 Docker 相关文件
+.dockerenv
+.Dockerfile
+.dockerignore
+
+# 忽略特定的输出目录
+out/
+temp/
+folders.json
+
+# 忽略 macOS 和 Linux 系统文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# 忽略 Windows 文件系统相关
+[Content_Types].xml
+_*
+
+# 忽略 Node.js 相关文件（如果项目中有前端部分）
+node_modules/
+npm-debug.log
+yarn-error.log
+.yarn-integrity
+package-lock.json
+yarn.lock
